@@ -61,7 +61,7 @@ function Login(props) {
         </div>
         <div className='signUp-container'>
           <div className='signUp'>
-            <span className='signUp-noAccount'>계정이 없으신가요?</span>
+            <span className='signUp-noAccount'>계정이 없으신가요??</span>
           </div>
         </div>
       </div>
