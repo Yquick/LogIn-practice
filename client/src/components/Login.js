@@ -14,7 +14,6 @@ import Container from "@mui/material/Container";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 
 const theme = createTheme();
-("a");
 
 export default function SignIn() {
   const handleSubmit = (event) => {
